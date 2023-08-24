@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 The optimized changes have been made in the branch named `email-contribution-refactor`. This branch showcases the
 enhanced version of the email sending script. Users can review the changes made in this branch.
-
+``
 These changes aim to improve the code's quality and make it more user-friendly, providing a solid foundation for email
 communication automation while maintaining security standards.
 
